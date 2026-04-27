@@ -6,8 +6,8 @@ This document describes the structure, variables, and meaning of each column in 
 
 ## 📁 Dataset Overview
 
-* **Total Records:** ~50,000 users
-* **Focus:** User engagement, subscription behavior, and churn indicators
+* **This dataset consists of approximately 50,000 users, offering a comprehensive view of user activity and platform interaction. It is designed to support analysis in key areas such as user engagement, subscription behavior, and churn prediction.
+* **Focus:** By capturing patterns in how users interact with the platform, the dataset enables deeper insights into retention trends, customer lifecycle stages, and factors influencing user decisions. It serves as a strong foundation for building data-driven models and strategies aimed at improving user experience and reducing churn.
 
 ---
 
@@ -73,17 +73,19 @@ This document describes the structure, variables, and meaning of each column in 
 
 ## 📌 Notes
 
-* Binary columns use **1 = Yes, 0 = No**
-* Higher inactivity and skips may indicate **potential churn**
-* Engagement metrics help analyze **user retention and satisfaction**
+* Binary columns are encoded as 1 = Yes and 0 = No for simplicity and consistency in analysis.**
+* Increased inactivity levels and frequent skips can serve as early indicators of potential churn.**
+* Engagement-related metrics play a crucial role in understanding user retention, behavior patterns, and overall satisfaction**
 
 ---
 
 ## 🎯 Use Cases
 
-* Predict user churn 📉
-* Improve recommendation systems 🎯
-* Analyze user engagement patterns 📊
-* Optimize subscription conversion strategies 💡
+* Predict user churn 📉 to proactively identify at-risk users and take timely retention actions
+* Enhance recommendation systems 🎯 by leveraging user behavior to deliver more personalized and relevant experiences.
+* Analyze engagement patterns 📊 to uncover insights into how users interact with the platform over time.
+* Optimize subscription conversion strategies 💡 to improve user acquisition, increase upgrades, and drive overall revenue growth.
+
+
 
 ---
