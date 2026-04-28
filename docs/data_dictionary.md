@@ -6,7 +6,7 @@ This document describes the structure, variables, and meaning of each column in 
 
 ## 📁 Dataset Overview
 
-* **This dataset consists of approximately 50,000 users, offering a comprehensive view of user activity and platform interaction. It is designed to support analysis in key areas such as user engagement, subscription behavior, and churn prediction.
+**This dataset consists of approximately 50,000 users, offering a comprehensive view of user activity and platform interaction. It is designed to support analysis in key areas such as user engagement, subscription behavior, and churn prediction.
 * **Focus:** By capturing patterns in how users interact with the platform, the dataset enables deeper insights into retention trends, customer lifecycle stages, and factors influencing user decisions. It serves as a strong foundation for building data-driven models and strategies aimed at improving user experience and reducing churn.
 
 ---
@@ -41,7 +41,6 @@ This document describes the structure, variables, and meaning of each column in 
 ---
 
 ## 📢 Ads & Conversion
-
 | Column Name                     | Data Type    | Description                                           |
 | ------------------------------- | ------------ | ----------------------------------------------------- |
 | `ad_interaction`                | Binary (0/1) | Whether user interacted with ads                      |
@@ -50,6 +49,7 @@ This document describes the structure, variables, and meaning of each column in 
 ---
 
 ## 🎵 User Experience & Preferences
+
 
 | Column Name                      | Data Type | Description                                                       |
 | -------------------------------- | --------- | ----------------------------------------------------------------- |
@@ -81,11 +81,10 @@ This document describes the structure, variables, and meaning of each column in 
 
 ## 🎯 Use Cases
 
-* Predict user churn 📉 to proactively identify at-risk users and take timely retention actions
-* Enhance recommendation systems 🎯 by leveraging user behavior to deliver more personalized and relevant experiences.
-* Analyze engagement patterns 📊 to uncover insights into how users interact with the platform over time.
-* Optimize subscription conversion strategies 💡 to improve user acquisition, increase upgrades, and drive overall revenue growth.
-
+* Churn prediction :Identify at-risk users early using inactivity flags, skip rates, and subscription status to trigger timely retention actions.
+* Recommendation enhancement : Leverage genre preferences, ratings, and most-liked features to personalize and improve content delivery.
+* Engagement analysis :Track listening hours, playlists, and skip behavior over time to uncover platform interaction patterns.
+* Subscription conversion : Analyze ad interaction and conversion rates to optimize upgrade funnels and drive revenue growth.
 
 
 ---
