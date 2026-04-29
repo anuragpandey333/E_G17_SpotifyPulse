@@ -11,6 +11,7 @@
 [![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org)
 [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/views/SpotifyPulse/UserRetentionDashboard)
 
 </div>
 
@@ -82,6 +83,7 @@ Without data-driven answers, product decisions become guesswork. SpotifyPulse pr
 | **SciPy & Statsmodels** | Statistical testing and regression |
 | **Jupyter Notebook** | Interactive analysis environment |
 | **Google Colab** | Cloud execution and collaboration |
+| **Tableau Public** | Interactive KPI dashboard |
 
 ---
 
@@ -128,35 +130,15 @@ Raw CSV Data
 
 ---
 
-## 📸 Visual Showcase
+## 📊 Live Dashboard
 
-> Screenshots from the analysis notebooks
+Explore the interactive **User Retention Dashboard** built on Tableau Public — covering churn trends, engagement segments, subscription breakdown, and genre-level behavior.
 
-**Churn Distribution & Engagement Breakdown**
+[![View Dashboard](https://img.shields.io/badge/View%20on%20Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/views/SpotifyPulse/UserRetentionDashboard)
 
-![Churn Distribution](assets/churn_distribution.png)
-
-**Numerical Feature Distributions**
-
-![Feature Distributions](assets/feature_distributions.png)
-
-**Correlation Heatmap**
-
-![Correlation Heatmap](assets/correlation_heatmap.png)
-
-**Regression: Playlists Created vs Listening Hours**
-
-![Regression Plot](assets/regression_plot.png)
-
-**Churn Rate by Genre & Engagement Level**
-
-![Genre Churn](assets/genre_churn_rate.png)
-
-> 📁 *Place your exported chart images in an `/assets` folder and update paths above.*
+> 🔗 [https://public.tableau.com/views/SpotifyPulse/UserRetentionDashboard](https://public.tableau.com/views/SpotifyPulse/UserRetentionDashboard)
 
 ---
-
-## 📈 Key Insights
 
 **1. Engagement is the strongest churn predictor**
 Users with low engagement scores (bottom quantile) churn at significantly higher rates. Listening hours, playlist creation, and skip frequency together form a reliable early-warning signal.
