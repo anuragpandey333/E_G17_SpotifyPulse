@@ -10,6 +10,7 @@ SpotifyPulse is a data analytics project focused on analyzing **user churn, enga
 
 The project converts raw user activity data into **actionable business insights** using Python, ETL pipelines, and Tableau dashboards.
 
+Tableau Link- https://public.tableau.com/views/SpotifyPulse/UserRetentionDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
 
 ## 🎯 Business Problem
