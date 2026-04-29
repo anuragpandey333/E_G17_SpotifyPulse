@@ -137,27 +137,26 @@ Stakeholders need to:
 SpotifyPulse/
 │
 ├── data/
-│   ├── raw/
-│   └── processed/
+│ ├── raw/
+│ └── processed/
 │
 ├── notebooks/
-│   ├── 01_extraction.ipynb
-│   ├── 02_cleaning.ipynb
-│   ├── 03_eda.ipynb
-│   ├── 04_statistical_analysis.ipynb
-│   └── 05_final_load_prep.ipynb
+│ ├── 01_extraction.ipynb
+│ ├── 02_cleaning.ipynb
+│ ├── 03_eda.ipynb
+│ ├── 04_statistical_analysis.ipynb
+│ └── 05_final_load_prep.ipynb
 │
 ├── scripts/
-│   └── etl_pipeline.py
+│ └── etl_pipeline.py
 │
 ├── tableau/
-│   ├── screenshots/
-│   └── dashboard_links.md
+│ ├── screenshots/
+│ └── dashboard_links.md
 │
 ├── reports/
-│
 ├── docs/
-│   └── data_dictionary.md
+│ └── data_dictionary.md
 │
 └── README.md
 ---## 👥 Team G-17| Name | Role ||------|-----|| Agrima Ojha | Project Lead, ETL, Dashboard || Himani Pinjani | EDA & Analysis || Anurag Pandey | Statistical Analysis || Dadidinesh | Dataset & Report || Ritesh Kumar | Statistical Analysis || Vedant Satbhai | Statistical Analysis |---## 📌 ConclusionSpotifyPulse provides a comprehensive understanding of **user churn and engagement dynamics**, enabling businesses to take **data-driven decisions to improve retention and user experience**.---
@@ -172,9 +171,9 @@ SpotifyPulse/
 | Agrima Ojha | Project Lead, ETL, Dashboard |
 | Himani Pinjani | EDA & Analysis |
 | Anurag Pandey | Statistical Analysis |
-| Dadidinesh | Dataset & Report |
+| Dadidinesh | Dataset & ETL, Report |
 | Ritesh Kumar | Statistical Analysis |
-| Vedant Satbhai | Statistical Analysis |
+| Vedant Satbhai | Statistical Analysis, ReadME |
 
 ---
 
